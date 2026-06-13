@@ -1,1 +1,1 @@
-# semana7
+(pregunta-semana7.txt)
